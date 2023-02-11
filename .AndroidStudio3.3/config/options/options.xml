@@ -1,0 +1,53 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="251" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PLUGIN_FILTER" value="android su&#10;andr&#10;And" />
+    <property name="ProjectStructure.TopLevelElements" value="0.17" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="SettingsSearchHistory" value="pl" />
+    <property name="android-component-compatibility-check" value="1555730438184" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="file.chooser.recent.files" value="C:/CL_HNDCSE_88_06&#10;C:/Users/Aryan Serasinghe/Desktop/Mobile Application&#10;C:/MyApplication&#10;C:/Android Studio/MyApplication&#10;C:/Android Studio/Android Studio and Python/Android Studio&#10;C:/Android Studio/MyApplication/app&#10;C:/Users/Aryan Serasinghe/Pictures/Android Studio and Python/Android Studio&#10;C:/Users/Aryan Serasinghe/Music/aryan&#10;C:/Users/Aryan Serasinghe/Music/apy/Python and Android Studio/MyApplicationICBT2&#10;C:/Users/Aryan Serasinghe/Music/py and android/Python and Android Studio/MyApplicationICBT2&#10;C:/Users/Aryan Serasinghe/Music/Python and Android Studio/MyApplicationICBT2&#10;C:/Users/Aryan Serasinghe/Videos/MyApplicationICBT2&#10;C:/Users/Aryan Serasinghe/AndroidStudioProjects/MyApplicationICBT2&#10;C:/Users/Aryan Serasinghe/Music/Android BMI Calculator/MyApplicationICBT2&#10;C:/Users/Aryan Serasinghe/Music/Android BMI Calculator&#10;C:/Users/Aryan Serasinghe/Pictures/Python and Android Studio/Android Studio/MyApplicationICBT2" />
+    <property name="file.gist.reindex.count" value="61" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-Studio3.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="lastTip" value="31" />
+    <property name="project.wizard.group" value="EMPTY_MODULE" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="properties.mode" value="INSPECTOR" />
+    <property name="run.configuration.alternate.action.ad" value="true" />
+  </component>
+</application>

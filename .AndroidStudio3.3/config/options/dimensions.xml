@@ -1,0 +1,23 @@
+<application>
+  <component name="DimensionService">
+    <location key="#HTTP_Proxy.0.0.1366.768" x="633" y="94" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="690" y="338" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="378" y="186" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="17" />
+    <location key="#Project_Structure.0.0.1366.768" x="265" y="0" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="880" y="618" />
+    <location key="chooseDestDirectoryDialog.0.0.1366.768" x="499" y="140" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="363" y="117" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="117" />
+    <location key="IDE.errors.dialog.0.0.1366.768" x="263" y="97" />
+    <location key="new project wizard.0.0.1366.768" x="350" y="0" />
+    <location key="SettingsEditor.0.0.1366.768" x="169" y="7" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="313" y="181" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="116" />
+    <size key="javadoc.popup.new.0.0.1366.768" width="300" height="217" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="133" />
+  </component>
+</application>
